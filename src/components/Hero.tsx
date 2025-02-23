@@ -8,7 +8,7 @@ export default function Hero() {
   };
 
   return (
-    <section className="min-h-screen flex flex-col justify-center items-center section-padding text-center relative">
+    <section className="min-h-screen flex flex-col justify-center items-center section-padding text-center relative pt-16">
       <div className="animate-fade-up [animation-delay:200ms] opacity-0">
         <h2 className="text-sm uppercase tracking-widest mb-6">Welcome</h2>
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6">
